@@ -1,0 +1,88 @@
+.top{
+    height: 35px;
+}
+.pk{
+    margin-left: 75px;
+    font-size: small;   
+}
+.ph{
+    text-decoration: solid;    
+}
+.ip{
+    margin-left: 552px;
+}
+.imag{
+    background-size: cover;
+    background-position: center center;
+    background-image: url('./img/car1.jpg');
+    position: relative;
+    align-items: center;
+    display: flex;
+    color: white;
+    width: 100%;
+    height: 500px;
+    opacity: 0.5;
+}
+.imag1{
+    background-position: center center;
+    background-size: cover;
+    background-image: url('./img/car2.jpg');
+    position: relative;
+    align-items: center;
+    display: flex;
+    color: white;
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+}
+.img1h{
+    text-align: left;
+    margin-left: 130px;
+    margin-bottom:80px ;
+}
+.head1{
+    font-size: 60px;
+    line-height: 64px;
+    padding-bottom: 20px;
+    font-weight: 700;
+}
+.p1{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    max-width: 610px;
+}
+.butt{
+    border-radius: 40px;
+    display: inline-block;
+    padding: 20px 40px;
+    background-color:#65108f;
+    color: #ffffff;
+}
+.butt:hover{
+    background-color: #a253c9;
+}
+.img2h{
+    text-align: left;
+    margin-left: 130px;
+    margin-bottom:30px ;
+}
+.nextbutt{
+    opacity: 0.0;
+}
+.input{
+    border: 0;
+}
+.close{
+    margin-left: 470px;
+    margin-top: 10px;
+}
+.submit{
+    display: inline-block;
+    padding: 10px;
+    width: 120px;
+    border-radius: 0;
+    background-color:#65108f;
+    color: #ffffff;
+}
